@@ -24,7 +24,7 @@ You must set:
 
 If you don’t see these options, update your Cyberpunk support extension to **v0.12.1**.
 
-![Step 1]([https://media.discordapp.net/attachments/1285796905640788030/1456238716745158740/image.png](https://media.discordapp.net/attachments/1285796905640788030/1456238716745158740/image.png?ex=6a03067d&is=6a01b4fd&hm=7a2e9166f69b297fbd50ec0e344eeb3b1e4b42fbd91c8862b256c2846da56bbb&=&format=webp&quality=lossless))
+![Step 1](https://media.discordapp.net/attachments/1285796905640788030/1456238716745158740/image.png)
 
 ---
 
