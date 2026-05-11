@@ -24,8 +24,7 @@ You must set:
 
 If you don’t see these options, update your Cyberpunk support extension to **v0.12.1**.
 
-**Image:**  
-https://media.discordapp.net/attachments/1285796905640788030/1456238716745158740/image.png
+![Step 1](https://media.discordapp.net/attachments/1285796905640788030/1456238716745158740/image.png)
 
 ---
 
@@ -49,8 +48,7 @@ You may need to repeat this if older leftover mods appear.
 
 > **Note:** If you have personal mods, write them down — you’ll need to reinstall them later.
 
-**Image:**  
-https://cdn.discordapp.com/attachments/1324990321393930240/1457797741680791776/image.png
+![Step 2](https://cdn.discordapp.com/attachments/1324990321393930240/1457797741680791776/image.png)
 
 ---
 
@@ -63,8 +61,7 @@ Once all mods are removed:
 Do **not** leave it running in the background.  
 If Vortex is open while running Mod Remover, it will cause errors later.
 
-**Image:**  
-https://media.discordapp.net/attachments/1324990321393930240/1457843152437121035/image.png
+![Important](https://media.discordapp.net/attachments/1324990321393930240/1457843152437121035/image.png)
 
 ---
 
@@ -74,101 +71,4 @@ Download the tool here:
 
 🔗 https://www.nexusmods.com/cyberpunk2077/mods/8597
 
-**Image:**  
-https://i.imgur.com/MQss7St.png
-
----
-
-## ♦ Step 4 — Place Mod Remover in Your Game Root
-
-Extract the contents of Mod Remover into your **Cyberpunk 2077 root directory**.
-
-Then run either the `.exe` or `.bat`.
-
-**Image:**  
-https://i.imgur.com/rPJZO76.png
-
----
-
-## ♦ Step 5 — Run the Program
-
-When you run Mod Remover:
-
-1. Press **Enter** to create a backup  
-2. The tool will remove all modded files  
-3. It will show you where backups are stored  
-4. It will prompt you to verify your game files
-
-**Image:**  
-https://i.imgur.com/OAtj8vO.png
-
----
-
-## ♦ Step 6 — Verify Game Files
-
-Open **Steam** or **GOG** and verify/repair your game installation.
-
-**Image:**  
-https://i.imgur.com/sDpu3fo.png
-
----
-
-## ♦ Step 7 — Final Checks
-
-You now have a clean Cyberpunk installation.
-
-### **Do NOT open Vortex yet.**
-
-1. Launch Cyberpunk normally (Steam/GOG)  
-2. Confirm it boots in a **vanilla state**  
-
----
-
-### ✔ Once confirmed:
-
-- Re‑add the collection from Nexus  
-- Install it into a **new Vortex profile**  
-- Do NOT reuse your old profile  
-
-This resolves most issues caused by:
-
-- Incorrect installs  
-- Auto Convert being on  
-- Old mod leftovers  
-- Broken profiles  
-
-**Image:**  
-https://preview.redd.it/hxy0tun46p561.jpg?width=1080&crop=smart&auto=webp&s=0df95ead41a858e95991417a7485baab4b89ec16
-
----
-
-## ⚠️ “Help, I got this message!”
-
-If you see this error:
-
-**Image:**  
-https://i.imgur.com/yCHrb9n.png
-
-It means you **did not follow the instructions correctly**.  
-Start again from Step 1 and read carefully.
-
-Hint:  
-You probably ignored the **Vortex must be closed** step.
-
----
-
-## 🎥 Video Guide
-
-A quick video overview (use alongside this guide):
-
-https://www.youtube.com/watch?v=QuioPH-ZmM0
-
-**Credits:** Rabbit Cat Robot
-
----
-
-## ✔ Guide Complete
-
-You now have a fully clean Cyberpunk 2077 installation and can safely reinstall the NCR collection.
-
----
+![Step 3](https://i.imgur.com/M
