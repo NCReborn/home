@@ -48,7 +48,7 @@ You may need to repeat this if older leftover mods appear.
 
 > **Note:** If you have personal mods, write them down — you’ll need to reinstall them later.
 
-![Step 2](https://cdn.discordapp.com/attachments/1324990321393930240/1457797741680791776/image.png)
+![Step 2](https://media.discordapp.net/attachments/1324990321393930240/1457797741680791776/image.png?ex=6a036c72&is=6a021af2&hm=a644f5f889880a7b6b751f252d5b3ebf2a66d1abc5086111ac2dd6f0b96d516a&=&format=webp&quality=lossless)
 
 ---
 
