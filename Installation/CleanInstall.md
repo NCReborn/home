@@ -71,4 +71,95 @@ Download the tool here:
 
 🔗 https://www.nexusmods.com/cyberpunk2077/mods/8597
 
-![Step 3](https://i.imgur.com/M
+![Step 3](https://i.imgur.com/MQss7St.png)
+
+---
+
+## ♦ Step 4 — Place Mod Remover in Your Game Root
+
+Extract the contents of Mod Remover into your **Cyberpunk 2077 root directory**.
+
+Then run either the `.exe` or `.bat`.
+
+![Step 4](https://i.imgur.com/rPJZO76.png)
+
+---
+
+## ♦ Step 5 — Run the Program
+
+When you run Mod Remover:
+
+1. Press **Enter** to create a backup  
+2. The tool will remove all modded files  
+3. It will show you where backups are stored  
+4. It will prompt you to verify your game files
+
+![Step 5](https://i.imgur.com/OAtj8vO.png)
+
+---
+
+## ♦ Step 6 — Verify Game Files
+
+Open **Steam** or **GOG** and verify/repair your game installation.
+
+![Step 6](https://i.imgur.com/sDpu3fo.png)
+
+---
+
+## ♦ Step 7 — Final Checks
+
+You now have a clean Cyberpunk installation.
+
+### **Do NOT open Vortex yet.**
+
+1. Launch Cyberpunk normally (Steam/GOG)  
+2. Confirm it boots in a **vanilla state**  
+
+---
+
+### ✔ Once confirmed:
+
+- Re‑add the collection from Nexus  
+- Install it into a **new Vortex profile**  
+- Do NOT reuse your old profile  
+
+This resolves most issues caused by:
+
+- Incorrect installs  
+- Auto Convert being on  
+- Old mod leftovers  
+- Broken profiles  
+
+![Step 7](https://preview.redd.it/hxy0tun46p561.jpg?width=1080&crop=smart&auto=webp&s=0df95ead41a858e95991417a7485baab4b89ec16)
+
+---
+
+## ⚠️ “Help, I got this message!”
+
+If you see this error:
+
+![Error](https://i.imgur.com/yCHrb9n.png)
+
+It means you **did not follow the instructions correctly**.  
+Start again from Step 1 and read carefully.
+
+Hint:  
+You probably ignored the **Vortex must be closed** step.
+
+---
+
+## 🎥 Video Guide
+
+A quick video overview (use alongside this guide):
+
+https://www.youtube.com/watch?v=QuioPH-ZmM0
+
+**Credits:** Rabbit Cat Robot
+
+---
+
+## ✔ Guide Complete
+
+You now have a fully clean Cyberpunk 2077 installation and can safely reinstall the NCR collection.
+
+---
