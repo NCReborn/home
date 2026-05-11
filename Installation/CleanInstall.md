@@ -61,7 +61,7 @@ Once all mods are removed:
 Do **not** leave it running in the background.  
 If Vortex is open while running Mod Remover, it will cause errors later.
 
-![Important](https://media.discordapp.net/attachments/1324990321393930240/1457843152437121035/image.png)
+![Important](https://media.discordapp.net/attachments/1324990321393930240/1457843152437121035/image.png?ex=6a0396bc&is=6a02453c&hm=4ea9786e2f7ab33bb991dcc1769e707e97732cf307843726181da66b186af5ec&=&format=webp&quality=lossless)
 
 ---
 
